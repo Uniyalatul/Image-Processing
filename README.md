@@ -44,6 +44,4 @@ ___
 
 ## How to download OPENCV and running it on Microsoft Visual Studio:
 
-```bash
-   https://www.youtube.com/watch?v=Oi3HaBH8RC4
-```
+[YouTube Video Link](https://www.youtube.com/watch?v=Oi3HaBH8RC4 "https://www.youtube.com/watch?v=Oi3HaBH8RC4")
