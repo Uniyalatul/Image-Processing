@@ -16,7 +16,7 @@ int main()
 {
 	Mat image1,final_im;
 	float angle;
-	image1 = imread("C:\\Users\\Ivan Roy\\Downloads\\images\\Real_Madrid_kit_goal_600_400.jpg");
+	image1 = imread("C:\\Users\\Atul Uniyal\\Downloads\\images\\Real_Madrid_kit_goal_600_400.jpg");
 	cout << "Dimensions are " << image1.rows << "x" << image1.cols << endl;
 	if (image1.empty())
 	{
